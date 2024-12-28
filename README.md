@@ -34,17 +34,6 @@ To understand the workflow and methodology, we recommend opening the notebooks i
 ## Project Presentation
 
 - A PDF presentation summarizing the project is available in the repository for reference.  
-- For a more visually appealing presentation, you can access it on Canva using the following link:  
-  [Project Presentation on Canva](https://www.canva.com/design/DAGGOhPhAbo/7hebG9Wt6jVbkB2kBKlU5w/edit?utm_content=DAGGOhPhAbo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
----
-
-## Prerequisites
-
-To run the notebooks, ensure the following:
-- Python 3.x installed.
-- Jupyter Notebook or Jupyter Lab set up.
-- Necessary Python packages installed (use `requirements.txt` if provided).
 
 ---
 
