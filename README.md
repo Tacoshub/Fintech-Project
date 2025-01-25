@@ -2,8 +2,6 @@
 
 This repository contains the implementation of our project focused on financial market analysis using a combination of Lasso Regression, Kalman Filters, and Neural Networks. The code is written in Python and organized using Jupyter Notebooks, enabling detailed comments and explanations.
 
----
-
 ## Recommended Order to Open the Notebooks
 
 To understand the workflow and methodology, we recommend opening the notebooks in the following order:
