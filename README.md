@@ -27,13 +27,9 @@ To understand the workflow and methodology, we recommend opening the notebooks i
 7. **`Kalman Filter Test`**:  
    This notebook tests the new Kalman Filter model's performance under varying values of the alpha exposure parameter.
 
----
-
 ## Project Presentation
 
 - A PDF presentation summarizing the project is available in the repository for reference.  
-
----
 
 ## Outputs
 
@@ -42,5 +38,3 @@ To understand the workflow and methodology, we recommend opening the notebooks i
   - A Kalman Filter implementation with validated and tested performance.
   - Anomaly detection results saved in the `VALORI_PREDETTI` Excel file.
   - Performance comparisons and insights for various financial modeling approaches.
-
----
