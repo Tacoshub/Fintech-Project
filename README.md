@@ -38,3 +38,11 @@ To understand the workflow and methodology, we recommend opening the notebooks i
   - A Kalman Filter implementation with validated and tested performance.
   - Anomaly detection results saved in the `VALORI_PREDETTI` Excel file.
   - Performance comparisons and insights for various financial modeling approaches.
+
+## Authors
+
+- Marco Giovanni Barbero
+- Flavio Salvatore Boccia
+- Ludovico Costa
+- Alessandro Pigato
+- Lorenzo Tolomelli
